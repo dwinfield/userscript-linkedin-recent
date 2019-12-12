@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        LinkedIn Recent Feed 
-// @match       *://*linkedin.com/*
+// @match       *://*linkedin.com/feed/*
 // @grant       none
 // @version     1.0.0
 // @author      Dave Winfield
